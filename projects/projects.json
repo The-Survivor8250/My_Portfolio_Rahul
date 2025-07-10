@@ -1,0 +1,83 @@
+[
+  {
+  "name": "Weather Prediction ML Model",
+  "desc": "A machine learning model that predicts future weather conditions using historical data like temperature and humidity.",
+  "image": "weather.jpeg",
+  "category": "ml",
+  "links": {
+    "code": "https://github.com/The-Survivor8250/ML_Waether_Prediction.git"
+  }
+},
+  {
+    "name": "AI smart route planning",
+    "desc": "AI Smart Route Planning finds the fastest and most efficient path using intelligent algorithms and real-time data",
+    "image": "smartroute.png",
+    "category": "ai",
+    "links": {
+      "code": "https://github.com/The-Survivor8250/Smart-Route-Planner.git"
+    }
+  },
+  {
+    "name": "Hotstar clone",
+    "desc": "A Hotstar-like streaming website built with HTML, CSS, and JavaScript for browsing and watching content.",
+    "image": "hotstar.png",
+    "category": "frontend",
+    "links": {
+      "code": "https://github.com/The-Survivor8250/Hotstar_Clone.git"
+    }
+  },
+  {
+    "name": "Employee Management System",
+    "desc": "A web-based system to manage employee records, including adding, updating, and deleting employee data.",
+    "image": "employeemanagement.jpeg",
+    "category": "frontend",
+    "links": {
+      "code": "https://github.com/The-Survivor8250/Employee_managem-ent.git"
+    }
+  },
+  {
+    "name": "Data Collection and Extraction",
+    "desc": "The process of gathering and retrieving relevant data from various sources for analysis and decision-making.",
+    "image": "data.png",
+    "category": "ml",
+    "links": {
+      "code": "https://github.com/The-Survivor8250/pythonpro.git"
+    }
+  },
+  {
+    "name": "Short Route Finding - DSA",
+    "desc": "Route finding using DSA involves using efficient data structures and logic to determine the shortest or best path between locations.",
+    "image":"shortroute.jpeg",
+    "category": "ai",
+    "links": {
+      "code": "https://github.com/The-Survivor8250/daaproject.git"
+    }
+  },
+  {
+    "name": "Car Rental Website",
+    "desc": "A web platform that allows users to browse, book, and manage rental cars easily online.",
+    "image": "carrenatlwebsite.jpeg",
+    "category": "frontend",
+    "links": {
+      "code": "https://github.com/The-Survivor8250/Finalclg_project.git"
+    }
+  },
+  {
+    "name": "Car Rental",
+    "desc": "A user-friendly interface designed for smooth car selection, booking, and rental management.",
+    "image": "carrentalui.jpeg",
+    "category": "ui",
+    "links": {
+      "code": "https://www.behance.net/rahuldebnath33"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "A user friendly portfolio intercafe with my own details, project and details.",
+    "image": "portfolio.jpeg",
+    "category": "frontend",
+    "links": {
+      "code": "https://github.com/The-Survivor8250/My_Portfolio_Rahul.git"
+    }
+  }
+]
