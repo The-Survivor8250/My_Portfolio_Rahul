@@ -21,11 +21,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Rahul Debnath";
-            $("#favicon").attr("href", "/assets/images/ChatGPT Image Jul 6, 2025, 01_44_16 AM.png");
+            $("#favicon").attr("href", "assets/images/ChatGPT Image Jul 6, 2025, 01_44_16 AM.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "/assets/images/favhand.png");
+            $("#favicon").attr("href", "assets/images/favhand.png");
         }
     });
 
@@ -48,7 +48,7 @@ function showProjects(projects) {
         projectsHTML += `
         <div class="grid-item ${project.category}">
         <div class="box tilt" style="width: 380px; margin: 1rem">
-       <img draggable="false" src="/assets/images/projects/${project.image}" alt="project" />
+       <img draggable="false" src="assets/images/projects/${project.image}" alt="project" />
        <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
